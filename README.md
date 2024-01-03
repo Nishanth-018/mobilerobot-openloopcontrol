@@ -100,9 +100,9 @@ if _name_ == '_main_':
 
 ## MobileRobot Movement Image:
 
-![robo](./img/robomaster.png)
 
-Insert image here
+
+
 ![Screenshot 2024-01-03 215715](https://github.com/Nishanth-018/mobilerobot-openloopcontrol/assets/149347651/7909690e-61ce-4989-a301-ffc396cfae30)
 ![Screenshot 2024-01-03 215729](https://github.com/Nishanth-018/mobilerobot-openloopcontrol/assets/149347651/c7747501-0fb0-4806-a2d5-2eb295ea9184)
 ![Screenshot 2024-01-03 215749](https://github.com/Nishanth-018/mobilerobot-openloopcontrol/assets/149347651/37036dbf-46f2-4c93-875e-e9c592394129)
@@ -117,7 +117,7 @@ Insert image here
 ## MobileRobot Movement Video:
 
 
-Upload your video in Youtube and paste your video-id here
+
 
 https://youtu.be/usIjqoDPF14
 <br/>
