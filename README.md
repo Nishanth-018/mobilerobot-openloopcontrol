@@ -1,4 +1,3 @@
-![image](https://github.com/Nishanth-018/mobilerobot-openloopcontrol/assets/149347651/7513eae1-277c-4958-8ebf-4cc1fe1b3e46)# MobileRobot-Openloopcontrol
 ## Aim:
 
 To develop a python control code to move the mobilerobot along the predefined path.
